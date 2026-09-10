@@ -6,6 +6,7 @@ A hands-on learning portfolio documenting my path from software developer and Ag
 
 ### AZ-104 Microsoft Certified: Azure Administrator Associate
 
+- 2026-09-10 [Lab 07 - Manage Azure Storage](./Azure/labs/2026-09-10%20Lab%2007%20-%20Manage%20Azure%20Storage)
 - 2026-09-07 [Lab 06 - Implement Network Traffic Management](./Azure/labs/2026-09-07%20Lab%2006%20-%20Implement%20Network%20Traffic%20Management)
 - 2026-09-04 [Lab 03 - Manage Azure resources by using Azure Resource Manager Templates](./Azure/labs/2026-09-04%20Lab%2003%20-%20Manage%20Azure%20resources%20by%20using%20Azure%20Resource%20Manager%20Templates)
 - 2026-08-07 [Lab 04 - Implement Virtual Networking](./Azure/labs/2026-08-07%20Lab%2004%20-%20Implement%20Virtual%20Networking)
