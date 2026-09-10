@@ -2,7 +2,7 @@
 
 **Certification:** AZ-104  
 **Module:** [Module name]()  
-**Date completed:** 2026-08-DD  
+**Date completed:** 2026-09-DD  
 
 ## Scenario
 
