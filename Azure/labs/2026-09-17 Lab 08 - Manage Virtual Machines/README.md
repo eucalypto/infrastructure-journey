@@ -6,7 +6,7 @@
 
 ## Scenario
 
-> _Rewrite the lab's business context in your own words. Example: "Contoso Ltd needs to segment network access so the finance team's VMs cannot reach the dev team's VMs, while both can access a shared database subnet."_
+> Contoso has a backend service that requires high availability and should be able to be scaled to adjust for changing traffic.
 
 ## Architecture
 
