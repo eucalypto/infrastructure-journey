@@ -6,6 +6,7 @@ A hands-on learning portfolio documenting my path from software developer and Ag
 
 ### AZ-104 Microsoft Certified: Azure Administrator Associate
 
+- 2026-09-18 [Lab 09c - Implement Azure Container Apps](./Azure/labs/2026-09-18%20Lab%2009c%20-%20Implement%20Azure%20Container%20Apps)
 - 2026-09-18 [Lab 09b - Implement Azure Container Instances](./Azure/labs/2026-09-18%20Lab%2009b%20-%20Implement%20Azure%20Container%20Instances)
 - 2026-09-17 [Lab 09a - Implement Web Apps](./Azure/labs/2026-09-17%20Lab%2009a%20-%20Implement%20Web%20Apps)
 - 2026-09-17 [Lab 08 - Manage Virtual Machines](./Azure/labs/2026-09-17%20Lab%2008%20-%20Manage%20Virtual%20Machines)

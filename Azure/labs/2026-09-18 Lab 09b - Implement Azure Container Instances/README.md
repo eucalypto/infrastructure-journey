@@ -10,7 +10,7 @@
 
 ## What I Did
 
-To make a proof of concept, I created an Azure Container Instance with a qickstart image:
+To make a proof of concept, I created an Azure Container Instance with a qickstart image. 
 
 ![](./files/container_instances_overview.jpg)
 
