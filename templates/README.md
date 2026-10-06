@@ -2,7 +2,7 @@
 
 **Certification:** AZ-104  
 **Module:** [Module name]()  
-**Date completed:** 2026-09-DD  
+**Date completed:** 2026-10-DD  
 
 ## Scenario
 
@@ -18,13 +18,6 @@ _Editable source: diagram.drawio_
 
 Brief narrative of implementation steps — not a copy of the lab instructions, but your own summary of the decisions made and resources created.
 
-## Screenshots
-
-| Step                      | Screenshot                             |
-| ------------------------- | -------------------------------------- |
-| Resource group created    | ![](./screenshots/01-rg-created.png)   |
-| NSG rules configured      | ![](./screenshots/02-nsg-rules.png)    |
-| Connectivity test passing | ![](./screenshots/03-ping-success.png) |
 
 ## Gotchas & Learnings
 
@@ -36,16 +29,6 @@ Brief narrative of implementation steps — not a copy of the lab instructions, 
     **Fix:** ...  
     **Takeaway:** ...
     
-
-## IaC Version
-
-After completing this lab via the portal, I recreated the infrastructure using Bicep:
-
-```bash
-az deployment group create --resource-group ContosoResourceGroup --template-file main.bicep
-```
-
-See [main.bicep](./main.bicep) for the full template.
 
 ## Resources
 
