@@ -2,10 +2,11 @@
  
 A hands-on learning portfolio documenting my path from software developer and Agile practitioner to Cloud Infrastructure Architect. Each lab and project includes architecture diagrams, implementation notes, and lessons learned — the real artifacts of cloud engineering.
 
-## Most Recent Labs:
+## Most Recent Labs and Projects:
 
 ### AZ-104 Microsoft Certified: Azure Administrator Associate
 
+- 2026-10-06 [Project: Set up Azure Subscription](./Azure/projects/2026-10-06%20set%20up%20azure%20subscription)
 - 2026-09-23 [Lab 11: Implement monitoring](./Azure/labs/2026-09-23%20Lab%2011%20-%20Implement%20monitoring)
 - 2026-09-22 [Lab 10 - Implement Data Protection](./Azure/labs/2026-09-22%20Lab%2010%20-%20Implement%20Data%20Protection)
 - 2026-09-18 [Lab 09c - Implement Azure Container Apps](./Azure/labs/2026-09-18%20Lab%2009c%20-%20Implement%20Azure%20Container%20Apps)
