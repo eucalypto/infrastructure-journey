@@ -7,6 +7,11 @@ Currently, I'm working towards AZ-104 Microsoft Certified: Azure Administrator A
 
 ## Journey Log
 
+### 2026-10-07
+Learning:  
+Azure Container Instances can only use Azure Files from a Storage account. they can't use blob storage or virtual disks. This was weird at first but makes sense after a while: Virtual disks can only be mounted on one device where as Azure Files can be accessed via SMB from many devices/services. And blob storage is fundamentally a storage for individual objects. WHen browsing it in the Azure portal, it looks like a file drive with folders and stuff, but fundamentally it offers only access to individual objects.
+
+
 ### 2026-10-06
 Until now I could use a training provider's temporary Azure accounts to do the labs, and today I've set up my own Azure Subscription starting with the 30 day 200USD credit trial. I have followed the best practices for security. I've heard horror stories where people got private bankrupt with accidental Cloud costs or hackers getting access to their account and enmassing cloud costs.
 
