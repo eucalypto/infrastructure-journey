@@ -7,6 +7,13 @@ Currently, I'm working towards AZ-104 Microsoft Certified: Azure Administrator A
 
 ## Journey Log
 
+### 2026-10-08
+
+I discovered a youtube video with Azure Lab suggestions and did the first:
+
+- [Youtube Lab: VM, RBAC, Policy, Cost Management](./Azure/labs/2026-10-08%20youtube%20Lab%20-%20VM,%20RBAC,%20Policy,%20Cost%20Management/)
+
+
 ### 2026-10-07
 
 Learning:  
