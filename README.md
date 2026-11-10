@@ -7,6 +7,14 @@ Currently, I'm working towards AZ-104 Microsoft Certified: Azure Administrator A
 
 ## Journey Log
 
+### 2026-11-10
+
+I set up a Docker development environment on Ubuntu VM on my mac:  
+[2026-11-10 Setup Docker Development Environment](./bare-metal/2026-11-10%20Setup%20Docker%20Development%20Environment)
+
+and created a first hello-world api server:  
+https://github.com/eucalypto/hello-api
+
 ### 2026-10-08
 
 I discovered a youtube video with Azure Lab suggestions and did the first:
