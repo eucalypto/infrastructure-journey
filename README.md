@@ -7,6 +7,13 @@ Currently, I'm working towards AZ-104 Microsoft Certified: Azure Administrator A
 
 ## Journey Log
 
+
+### 2026-11-12
+
+I managed to deploy the container as an Azure Container Instance. This required a few extra steps because I went through the GitHub Container Registry GHCR.io  
+[2026-11-12 Azure Container Instances setup](./Azure/projects/2026-11-12%20Azure%20Container%20Instances%20setup)
+
+
 ### 2026-11-10
 
 I set up a Docker development environment on Ubuntu VM on my mac:  
