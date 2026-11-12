@@ -1,8 +1,7 @@
 # Azure Container Instances (ACI) Setup
 
 **Certification:** AZ-104  
-**Module:** [Module name]()  
-**Date completed:** 2026-10-DD  
+**Date completed:** 2026-10-12  
 
 ## Scenario
 
@@ -75,6 +74,8 @@ After the first start, I stopped the container instance and restarted it again a
 ![](./screenshots/aci_container_events.jpg)
 
 This is the way of updating the app, since even with a github action build, the github action does not automatically toggle the ACI to pull and start the new image.
+
+I also exported the bicep code and let it get prettified and cleaned and saved it in [main.bicep](./main.bicep) so that later it can be deployed more automatically.
 
 ## Gotchas & Learnings
 
