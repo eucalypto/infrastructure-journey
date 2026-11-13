@@ -7,6 +7,10 @@ Currently, I'm working towards AZ-104 Microsoft Certified: Azure Administrator A
 
 ## Journey Log
 
+### 2026-11-13
+
+I've automated the build and upload workflow of the hello-api app:
+[2026-11-13 Add GitHub Actions Build Workflow for hello-api](./GitHub/2026-11-13%20Add%20GitHub%20Actions%20Build%20Workflow%20for%20hello-api)
 
 ### 2026-11-12
 
