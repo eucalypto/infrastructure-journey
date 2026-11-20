@@ -7,6 +7,10 @@ Currently, I'm working towards AZ-104 Microsoft Certified: Azure Administrator A
 
 ## Journey Log
 
+### 2026-11-20
+
+Today I've passed the [Microsoft Applied Skills: Configure secure access to your workloads using Azure networking](https://learn.microsoft.com/api/credentials/share/ViktorPapara-4812/secure-storage-azure-files-azure-blob-storage?WT.mc_id=email&sharingId=B05B7E2C4C01EAC5). It was about securing access to several storage accounts. I like those Applied skills because you get a Windows VM in your browser and also a temporary Azure account so that you get the full Azure experience while getting a handful of "Work Emails" from several "Coworkers" that ask you to do something in Azure. It's supposed to simulate a real world scenario and I think it works well. They wisely decided against simulating getting unrelated chat messages from other coworkers, and having to join meetings. Instead you can focus on the tasks for full 2 hours, so there are limits to the realism required here :)
+
 ### 2026-11-13
 
 I've automated the build and upload workflow of the hello-api app:
